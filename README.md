@@ -4,7 +4,7 @@ Projeto desenvolvido para a disiciplina de Computação Gráfica(INF1701) da Uni
 
 _Esta é a API do projeto [Snake Game][snakegame]_
 
-## Desenvolvido com
+**Desenvolvido com:**
 
 - [Node.js][nodejs]
 - [Express.js][expressjs]
